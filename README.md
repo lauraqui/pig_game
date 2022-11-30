@@ -1,5 +1,5 @@
 # pig_game
-I built a dice game working with Dom Manipulation to develop my skills.
+I built a dice game working with Dom Manipulation.
 
 
 Project developed in the Javascript course, to develop Dom Manipulation skills.
